@@ -617,7 +617,7 @@ color: #ccc;
     border-bottom: 2px solid #333;
 }
 
-@media (max-width:450px){
+@media (max-width:700px){
     .banner .slidearea h1{
         font-size: 30px;
     }
@@ -754,7 +754,7 @@ color: #ccc;
         padding-right: 30px;
     }
     .sectionbody-tabelas{
-        flex-direction: column;
+       flex-wrap: wrap;
     }
     .contato{
         padding: 60px;
