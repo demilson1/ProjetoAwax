@@ -617,7 +617,7 @@ color: #ccc;
     border-bottom: 2px solid #333;
 }
 
-@media (max-width:700px){
+@media (max-width:600px){
     .banner .slidearea h1{
         font-size: 30px;
     }
