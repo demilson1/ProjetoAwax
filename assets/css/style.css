@@ -754,6 +754,7 @@ color: #ccc;
         padding-right: 30px;
     }
     .sectionbody-tabelas{
+        display: flex;
        flex-wrap: wrap;
     }
     .contato{
